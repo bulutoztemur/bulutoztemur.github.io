@@ -1,7 +1,76 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>iOS Developer Contact</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #121212;
+            color: #e0e0e0;
+        }
+        .contact-card {
+            background-color: #1e1e1e;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.5);
+            text-align: center;
+            max-width: 600px;
+            width: 100%;
+        }
+        .contact-card h1 {
+            font-size: 1.5em;
+            margin-bottom: 10px;
+        }
+        .contact-card p {
+            margin: 10px 0;
+            color: #b0b0b0;
+        }
+        .contact-card a {
+            display: inline-block;
+            margin: 10px;
+            text-decoration: none;
+            color: #64b5f6;
+            font-weight: bold;
+            transition: color 0.3s;
+        }
+        .contact-card a:hover {
+            color: #42a5f5;
+        }
+        .contact-card img {
+            width: 24px; !important
+            height: 24px;
+            vertical-align: middle;
+            margin-right: 8px;
+        }
+    </style>
+</head>
 <body>
-<h1>Hello World</h1>
-<p>I'm hosted with GitHub Pages.</p>
+    <div class="contact-card">
+        <img src="hacker.png" alt="Hacker with MacBook" class="profile-image" style="width:128px;border-radius:64px">
+        <h1>About Me</h1>
+        <p>Hi, I'm an iOS Developer with a passion for creating intuitive and user-friendly applications. I enjoy working on innovative projects and exploring the latest technologies in mobile development.</p>
+        <h1>Contact Me</h1>
+        <p>Feel free to connect with me through the links below:</p>
+        <a href="mailto:bulutoztemur@gmail.com" target="_blank">
+            <img src="https://www.svgrepo.com/show/303161/gmail-icon-logo.svg" alt="Gmail">Email
+        </a>
+        <a href="https://www.linkedin.com/in/bulutoztemur/" target="_blank">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn">LinkedIn
+        </a>
+        <a href="https://github.com/bulutoztemur" target="_blank">
+            <img src="https://www.svgrepo.com/show/450156/github.svg" alt="GitHub">GitHub
+        </a>
+        <a href="https://appstore.com/yourusername" target="_blank">
+            <img src="https://www.svgrepo.com/show/303125/apple-logo.svg" alt="Apple">App Store
+        </a>
+    </div>
 </body>
 </html>
