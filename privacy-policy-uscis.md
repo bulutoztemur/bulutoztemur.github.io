@@ -1,4 +1,4 @@
-Privacy Policy for USCIS 2025
+Privacy Policy for US Citizenship Test 2025 Free
 Last Updated: 24.03.2025
 
 1. Introduction
