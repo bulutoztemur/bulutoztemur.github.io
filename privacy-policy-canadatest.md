@@ -1,5 +1,5 @@
-Privacy Policy for Canada Citizenship Test 2025 Free
-Last Updated: 25.03.2025
+Privacy Policy for Canadian Citizenship Quiz 2025
+Last Updated: 06.04.2025
 
 1. Introduction
 This Privacy Policy explains how [Your App Name] ("we", "our", or "us") collects, uses, and protects your data when you use our app.
