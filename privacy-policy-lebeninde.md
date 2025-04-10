@@ -2,7 +2,7 @@ Privacy Policy for Leben in Deutschland 2025
 Last Updated: 09.03.2025
 
 1. Introduction
-This Privacy Policy explains how [Your App Name] ("we", "our", or "us") collects, uses, and protects your data when you use our app.
+This Privacy Policy explains how Leben in Deutschland 2025 ("we", "our", or "us") collects, uses, and protects your data when you use our app.
 
 2. Information We Collect
 We may collect:
