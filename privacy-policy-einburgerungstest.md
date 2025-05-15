@@ -1,6 +1,6 @@
 Privacy Policy for Leben In Deutschland Test 2025
 
-Last Updated: 11.04.2025
+Last Updated: 15.05.2025
 
 1. Introduction
 This Privacy Policy explains how Leben In Deutschland Test 2025 ("we", "our", or "us") collects, uses, and protects your data when you use our app.
