@@ -1,8 +1,9 @@
-Privacy Policy for Einbürgerungstest 2025 App
-Last Updated: 24.09.2025
+Privacy Policy for Leben In Deutschland Test 2025
+
+Last Updated: 15.05.2025
 
 1. Introduction
-This Privacy Policy explains how Einbürgerungstest 2025 App ("we", "our", or "us") collects, uses, and protects your data when you use our app.
+This Privacy Policy explains how Leben In Deutschland Test 2025 ("we", "our", or "us") collects, uses, and protects your data when you use our app.
 
 2. Information We Collect
 We may collect:
@@ -32,4 +33,3 @@ We may update this policy from time to time. We encourage users to review it per
 
 8. Contact Us
 If you have any questions about this Privacy Policy, contact us at [bulutoztemur@gmail.com].
-
