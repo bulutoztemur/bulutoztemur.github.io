@@ -1,8 +1,8 @@
-Privacy Policy for Australian Citizenship Test
-Last Updated: 11.10.2025
+Privacy Policy for Australian Citizenship Test!
+Last Updated: 14.10.2025
 
 1. Introduction
-This Privacy Policy explains how Australian Citizenship Test ("we", "our", or "us") collects, uses, and protects your data when you use our app.
+This Privacy Policy explains how Australian Citizenship Test! ("we", "our", or "us") collects, uses, and protects your data when you use our app.
 
 2. Information We Collect
 We may collect:
