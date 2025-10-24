@@ -1,8 +1,8 @@
-Privacy Policy for Brain Gym - Mind Cards
-Last Updated: 11.03.2025
+Privacy Policy for Mind Cards: Classic Match
+Last Updated: 24.10.2025
 
 1. Introduction
-This Privacy Policy explains how Brain Gym - Mind Cards ("we", "our", or "us") collects, uses, and protects your data when you use our app.
+This Privacy Policy explains how Mind Cards: Classic Match ("we", "our", or "us") collects, uses, and protects your data when you use our app.
 
 2. Information We Collect
 We may collect:
