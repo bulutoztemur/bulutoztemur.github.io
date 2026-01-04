@@ -1,8 +1,8 @@
-Privacy Policy for App Store Stalker
-Last Updated: 30.12.2025
+Privacy Policy for App Store Review Tracker
+Last Updated: 04.01.2026
 
 1. Introduction
-This Privacy Policy explains how App Store Stalker ("we", "our", or "us") collects, uses, and protects your data when you use our app.
+This Privacy Policy explains how App Store Review Tracker ("we", "our", or "us") collects, uses, and protects your data when you use our app.
 
 2. Information We Collect
 We may collect:
